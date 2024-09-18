@@ -1,4 +1,3 @@
-// lib/utils/text_strings.dart
 class TextStrings {
   static const String login = "Login";
   static const String usernameOrId = "Username/ Membership ID";
